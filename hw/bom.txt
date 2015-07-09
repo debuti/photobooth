@@ -1,0 +1,60 @@
+==================================================================
+   CASE
+==================================================================
+Design the following parts:
+
+4 x motor_mount.stl
+4 x clamp.stl
+4 x clamp_bar.stl
+4 x bolt_handle.stl
+1 x box_top.stl
+1 x box_bottom.stl
+
+==================================================================
+   SCREWS / NUTS / BOLTS
+==================================================================
+
+To put everything together, you will need some nuts, bolts and washers. You can source them yourself, or use the below mentioned item numbers on rs-online.com:
+
+189-620 - Plain washer, M3 - four for each motor
+293-325 - Hex socket cap screw, M3x20mm - four for each motor
+521-850 - Wing nut, M4 - one for each clamp (two with extender)
+189-636 - Plain washer, M4 - two for each clamp (four with extender)
+290-118 - Hex socket cap screw, M4x30mm - one for each clamp (two with extender)
+279-571 - Hex bolt, M4x60mm - one for each clamp
+
+==================================================================
+   ELECTRONICS
+==================================================================
+
+1 x Raspberry Pi 2 (not tested on RPi1, surely works)
+1 x USB Keypad
+1 x Power cord
+1 x 15'' flat monitor
+1 x gPhoto2 supported camera
+1 x Photo grade printer
+1 x Ultra bright led
+
+
+For the other components, below you will find a list of the ones I've been using. I've tried to keep costs down and used parts that are easy to order online.
+
+Raspberry Pi 2:
+ Amazon: http://www.amazon.com/Raspberry-Pi-Model-Project-Board/dp/B00T2U7R7I
+ Banggood: http://www.banggood.com/Raspberry-Pi-2-Model-B-ARM7-Quad-Core-CPU-1GB-RAM-900MHz-p-967507.html
+
+USB Keypad:
+http://www.banggood.com/USB-Mini-19-Keys-Numeric-Number-Keypad-Slim-Retractable-Keyboard-p-969101.html
+
+15'' flat monitor:
+ 
+
+Camera:
+ Canon SX220: http://www.amazon.com/Canon-PowerShot-SX220-Digital-Camera/dp/B004ZZOH82
+
+
+Printer:
+ Canon SELPHY CP910
+
+
+LED:
+http://www.banggood.com/Photography-Enhancing-Selfie-Sync-LED-Flash-For-iOS-Android-WP8_0-p-968819.html
